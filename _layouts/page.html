@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<header>
+	<img class="scale-image" src="/images/raim-logo-header.jpg" />
+	
+	<nav class="breadcrumb-bar content">
+		{% include breadcrumbs %}
+	</nav>
+	
+	<h1 class="content">
+		{{ page.title }}
+		
+		{% if page.tagline %}
+			<br />
+			<small>{{ page.tagline }}</small>
+		{% endif %}
+	</h1>
+</header>
+
+<main class="content">
+	{{ content }}
+</main>

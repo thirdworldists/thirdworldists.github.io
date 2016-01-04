@@ -1,0 +1,10 @@
+<div class="table-of-contents panel panel-default">
+<div class="panel-heading">
+<h3 class="panel-title">Contents</h3>
+</div>
+
+<div markdown="block" class="panel-body">
+* junk text here which will be replaced by the toc
+{:toc}
+</div>
+</div>

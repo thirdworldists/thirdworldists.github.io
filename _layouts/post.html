@@ -1,0 +1,50 @@
+---
+layout: default
+is_post: true
+---
+
+<header>
+	<img class="scale-image" src="/images/raim-logo-header.jpg" />
+	
+	<nav class="breadcrumb-bar content">
+		<ol class="breadcrumb">
+			<li><a href="/">Home</a></li>
+			<li><a href="{{ site.paths.updates }}">Updates</a></li>
+			<li class="active">{{ page.title }}</li>
+		</ol>
+	</nav>
+	
+	<h1 class="content">
+		{{ page.title }}
+		
+		{% if page.tagline %}
+			<br />
+			<small>{{ page.tagline }}</small>
+		{% endif %}
+	</h1>
+</header>
+
+<!-- #### Content -->
+<main class="content">
+	{{ content }}
+
+	<hr class="clear" />
+
+	<nav class="text-center">
+		<ul class="pagination">
+			{% if page.previous %}
+				<li><a href="{{ page.previous.url }}" title="Prev Post: {{ page.previous.title }}"><span class="glyphicon glyphicon-arrow-left"></span> Prev</a></li>
+			{% else %}
+				<li class="disabled"><a><span class="glyphicon glyphicon-arrow-left"></span> Prev</a></li>
+			{% endif %}
+			
+			<li><a href="{{ site.paths.updates }}" title="Post Archives"><span class="glyphicon glyphicon-th-list"></span></a></li>
+			
+			{% if page.next %}
+				<li><a href="{{ page.next.url }}" title="Next Post: {{ page.next.title }}">Next <span class="glyphicon glyphicon-arrow-right"></span></a></li>
+			{% else %}
+				<li class="disabled"><a>Next <span class="glyphicon glyphicon-arrow-right"></span></a></li>
+			{% endif %}
+		</ul>
+	</nav>
+</main>

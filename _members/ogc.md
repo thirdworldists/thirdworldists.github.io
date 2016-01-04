@@ -1,0 +1,24 @@
+---
+layout: page
+title: RAIM Oppressed Genders Commission
+tagline: 
+description: The Oppressed Genders Commission (OGC) is an association of non-men and women within the Revolutionary Anti-Imperialist Movement (RAIM). It exists at all levels of the organisation, and its aim is to defend the interests and safety of all non-men, whether within RAIM or in society at large.
+---
+
+The Oppressed Genders Commission (OGC) is an association of non-men and women within the Revolutionary Anti-Imperialist Movement (RAIM). It exists at all levels of the organisation, and its aim is to defend the interests and safety of all non-men, whether within RAIM or in society at large. Historical revolutionary movements, while often proclaiming themselves to be opposed to patriarchy, have not been immune to the harmful effects of gender oppression; already established patterns of male dominance and even, sometimes, violence are found in communist organisations where there is no active struggle to eliminate patriarchal behaviours and encourage the full participation and leadership of non-men and women. On top of this, the overwhelming majority of First World "revolutionary" organisations in the present day are led mostly (sometimes entirely) by men, and have a majority male membership - this does not reflect the reality of the world's actually-exploited people in the Third World, where women make up the majority of the people in movements resisting capitalism, imperialism and ecocide. If RAIM aims to be a truly revolutionary organisation, then it follows that it must similarly incorporate the gender oppressed in a very real way, by giving them the power to protect themselves and their interests, both within the organisation and in general.
+
+As issues of patriarchy and male domination arise within the organisation, the commission will address them on an individual basis and decide collectively the best way to handle the offense. The commission will have strong ties to RAIM leadership; any discussion held by the commission will have at least one member of the leadership present, and all non-men in RAIM's leadership are also required to be in the leadership of the commission. Additionally, the commission will hold real power within the organisation, having the ability to veto any decision made by cell or organisational leadership deemed by the OGC to be against the interests of gender oppressed people. It will also be able to request a self-criticism and/or an apology from any member of the organisation, and depending upon the judgement of the commission based on this, the offending member will either be put on probation, to be monitored closely for a fixed period of time, or be subject to expulsion. This process will occur independently of any inquiries the local or organisational leadership might like to make, although if they come into conflict with the OGC over the results of said inquiry, they will be prevented from overriding the latter's decision. 
+
+The commission will be open to any RAIM member[^member] of an oppressed gender[^non-man] who wishes to join, with no formal application process. The commission and its leadership will be available for contacting at any time, and may be e-mailed at our general [contact address](/contact/). The commission will aim to include representation for all the non-men from every on-the-ground cell, and has the power to hold accountable all RAIM cells for misogyny and non-adherence to the political line.
+
+The Oppressed Genders Commission is the first and last line of defence for non-men within the organisation, and so all gender oppressed people within the organisation or its orbit must feel able to trust the commission's leadership and its capacity to protect people from patriarchal behaviours. In lieu of this, the commission's leadership is bound to not publicly discuss any concerns brought to them with regards to the issues of gender oppressed members without the consent of the individual(s) concerned, and to respect the wishes of said individual(s) with regards to any investigations or discussions undertaken on the matter. Above all, the safety of gender oppressed people is paramount; in the case of a situation getting so serious as to require the involvement of bourgeois law enforcement, then the commission must do all in its power to ensure that the people concerned receive all the assistance and protection they need.
+
+**Signed,**
+
+**The Non-men and Women of RAIM**
+
+## Notes:
+
+[^member]: Defined here as a member or prospective member of an on-the-ground or media cell, or someone who has made a significant contribution to RAIM media.
+
+[^non-man]: The commission understands a gender oppressed individual to be a non-man, that is, someone for whom manhood is not incorporated into their understanding of their gender.

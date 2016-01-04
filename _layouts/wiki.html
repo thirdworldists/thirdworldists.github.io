@@ -1,0 +1,34 @@
+---
+layout: default
+---
+
+<header>
+	<img class="scale-image" src="/images/raim-logo-header.jpg" />
+	
+	<nav class="breadcrumb-bar content">
+		<div class="btn-group pull-right visible-lg visible-md visible-sm">
+			{% include wiki_edit_buttons %}
+		</div>
+		
+		{% include breadcrumbs %}
+	</nav>
+	
+	<h1 class="content">
+		{{ page.title }}
+		
+		<br />
+		<small>Part of a RAIM wiki series on {{ page.catname | replace:'-'," " }}</small>
+	</h1>
+</header>
+
+<div class="hidden-lg hidden-md hidden-sm">
+	<div class="btn-group btn-group-justified">
+		{% include wiki_edit_buttons %}
+	</div>
+	
+	<br />
+</div>
+
+<main class="content">
+	{{ content }}
+</main>

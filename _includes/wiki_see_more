@@ -1,0 +1,4 @@
+<p><em>See the <strong><a href="{{ article_url }}">{{ article_name }}</a></strong> article for more information.</em></p>
+
+{% assign article_url  = nil %}
+{% assign article_name = nil %}

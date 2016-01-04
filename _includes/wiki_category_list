@@ -1,0 +1,13 @@
+{% assign sorted = site.wiki | sort: 'order' %}
+
+<ol>
+{% for node in sorted %}
+	{% if node.title != null %}
+		{% if catname == node.catname %}
+				<li><a href="{{ node.url }}">{{ node.title }}</a></li>
+		{% endif %}
+	{% endif %}
+{% endfor %}
+</ol>
+
+{% assign catname = nil %}

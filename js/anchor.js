@@ -1,0 +1,2 @@
+/*! AnchorJS - v0.1.0 - 2014-08-17 | https://github.com/bryanbraun/anchorjs | Copyright (c) 2014 Bryan Braun; Licensed MIT */
+function addAnchors(e) {e=e||"h2, h3, h4, h5, h6";var t=document.querySelectorAll(e);for(var n=0;n<t.length;n++) {var r;if(t[n].hasAttribute("id") && t[n].getElementsByTagName("a").length < 1) {r=t[n].getAttribute("id");var o='<a class="anchor-link" href="#'+r+'"><span class="icon-link"></span></a>';t[n].innerHTML=t[n].innerHTML+o}}}

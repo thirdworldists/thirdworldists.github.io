@@ -1,0 +1,22 @@
+<div class="panel panel-default">
+	<div class="panel-heading">
+		<div class="panel-title">
+			<a data-toggle="collapse" data-parent="#accordion" href="#collapse-{{ catname }}">
+				{% if labeloverride %}
+					{{ labeloverride }}
+				{% else %}
+					{{ catname | replace:'-'," " | capitalize }}
+				{% endif %}
+			</a>
+		</div>
+	</div>
+	<div id="collapse-{{ catname }}" class="panel-collapse collapse {% if first %}in{% endif %}">
+		<div class="panel-body">
+			{% include wiki_category_list %}
+		</div>
+	</div>
+</div>
+
+{% assign first = nil %}
+{% assign catname = nil %}
+{% assign labeloverride = nil %}

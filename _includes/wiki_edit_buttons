@@ -1,0 +1,11 @@
+<a role="button" class="btn btn-xs btn-default" href="{{ site.repo_url }}/blob/master/{{ page.relative_path }}">
+	View Source &nbsp;<span class="glyphicon glyphicon-eye-open"></span>
+</a>
+
+<a role="button" class="btn btn-xs btn-default" href="{{ site.repo_url }}/edit/master/{{ page.relative_path }}">
+	Edit Page &nbsp;<span class="glyphicon glyphicon-pencil"></span>
+</a>
+
+<a role="button" class="btn btn-xs btn-default" href="{{ site.repo_url }}/issues/new">
+	Submit Issue &nbsp;<span class="glyphicon glyphicon-warning-sign"></span>
+</a>

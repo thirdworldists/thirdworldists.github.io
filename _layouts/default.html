@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		
+		<title>{{ page.title }} - {{ site.title }}</title>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<meta property="og:title"     content="{{ page.title }}" />
+		<meta property="og:site_name" content="{{ site.title }}" />
+		<meta property="og:locale"    content="en_US" />
+		
+		{% if page.is_post %}
+			<meta property="og:type"                content="article" />
+			<meta property="article:published_time" content="{{ page.date | date: "%Y/%m/%d" }}" />
+			<meta property="article:tag"            content="{{ page.tags }}"     />
+			<meta property="article:section"        content="{{ page.category }}" />
+		{% else %}
+			<meta property="og:type" content="website" />
+		{% endif %}
+		
+		{% if page.description %}
+			<meta name="description"        content="{{ page.description }}" />
+			<meta property="og:description" content="{{ page.description }}" />
+		{% endif %}
+		
+		<meta property="og:image" content="{{ site.production_url }}/images/raim-logo-cropped.png" />
+		
+		<link rel="icon" sizes="256x256" href="/images/favicon-256.png">
+		<link rel="icon" sizes="128x128" href="/images/favicon-128.png">
+		<link rel="icon" sizes="64x64"   href="/images/favicon-64.png">
+		<link rel="icon" sizes="32x32"   href="/images/favicon-32.png">
+		<link rel="icon" sizes="16x16"   href="/images/favicon-16.png">
+		
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+		<link rel="stylesheet" href="/css/style.css" >
+		
+		<link href="{{ site.paths.atom }}" type="application/atom+xml" rel="alternate" title="ATOM Feed">
+	</head>
+	
+	<body>
+		<nav class="navbar navbar-default navbar-inverse navbar-static-top">
+			<div class="container content">
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					
+					<a class="navbar-brand" href="/">RAIM</a>
+				</div>
+				
+				<div class="collapse navbar-collapse" id="navbar-collapse">
+					<ul class="nav navbar-nav navbar-right">
+						<li {% if page.url == site.paths.about %} class="active" {% endif %}>
+							<a href="{{ site.paths.about }}">About</a>
+						</li>
+						
+						<li {% if page.url == site.paths.contact %} class="active" {% endif %}>
+							<a href="{{ site.paths.contact }}">Contact</a>
+						</li>
+						
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Members <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="/members/code-of-conduct/">Code of Conduct</a></li>
+								<li><a href="/members/ogc/">Oppressed Genders Commision</a></li>
+							</ul>
+						</li>
+						
+						<li {% if page.url == site.paths.updates %} class="active" {% endif %}>
+							<a href="{{ site.paths.updates }}">Updates</a>
+						</li>
+						
+						<li {% if page.url == site.paths.publications %} class="active" {% endif %}>
+							<a href="{{ site.paths.publications }}">Publications</a>
+						</li>
+						
+						<li {% if page.url == site.paths.agitprop %} class="active" {% endif %}>
+							<a href="{{ site.paths.agitprop }}">Agitprop</a>
+						</li>
+						
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Solidarity <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="http://siglodelucha.wordpress.com/">Siglo de Lucha</a></li>
+								<li><a href="http://prisoncensorship.info/index">Maoist Internationalist Ministry of Prisons</a></li>
+								<li><a href="http://anti-imperialism.com/">Anti-Imperialism.com</a></li>
+								<li><a href="http://onkwehonwerising.wordpress.com/">Onkwehón:we Rising</a></li>
+								<li><a href="http://revolutionaryecology.com/">Revolutionary Ecology</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		
+		<div class="container">
+			{{ content }}
+		</div>
+		
+		<script src="/js/anchor.js"></script>
+		<script data-no-instant src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script data-no-instant src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+		<script data-no-instant src="/js/instantclick.js"></script>
+		<script data-no-instant>InstantClick.init();</script>
+		<script>addAnchors();</script>
+	</body>
+</html>

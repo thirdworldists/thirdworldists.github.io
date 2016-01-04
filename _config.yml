@@ -1,0 +1,45 @@
+exclude: [".travis.yml", "Rakefile", "vendor", "README.md"]
+include: []
+
+title: RAIM
+tagline: 
+
+highlighter: pygments
+markdown: kramdown
+
+base_path: 
+home_path: /
+
+permalink: pretty
+
+paths:
+  about:                  /about/
+  contact:                /contact/
+  members:                /members/
+  updates:                /updates/
+  categories:             /categories/
+  tags:                   /tags/
+  wiki:                   /wiki/
+  publications:           /publications/
+  dare_to_win:            /publications/dare-to-win/
+  dare_to_win_archive:    /publications/dare-to-win-archive/
+  seize_the_time_archive: /publications/seize-the-time-archive/
+  weapon_of_theory:       /publications/weapon-of-theory/
+  cia_terrorism:          /publications/cia-terrorism/
+  imperialist_economy:    /publications/imperialist-political-economy/
+  founding_imperialism:   /publications/founding-imperialism/
+  thousand_truths:        /publications/thousand-truths/
+  agitprop:               /agitprop/
+  atom:                   /atom.xml
+repo_url: 'https://github.com/thirdworldists/thirdworldists.github.io'
+
+collections:
+  wiki:
+    output: true
+    permalink: /wiki/:path/
+  publications:
+    output: true
+    permalink: /publications/:path/
+  members:
+    output: true
+    permalink: /members/:path/

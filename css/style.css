@@ -1,0 +1,300 @@
+/* Utility */
+/* ########################################################################## */
+.clear {
+	clear: both;
+}
+
+/* body */
+/* ########################################################################## */
+body {
+	background-image: url(../images/texture.png);
+	background-color: #E4E4E4;
+}
+
+/* header */
+/* ########################################################################## */
+header {
+	background-color: #F5F5F5;
+}
+
+header > h1 {
+	padding-top:    20px;
+	padding-bottom: 20px;
+	margin: 0px;
+	text-align: center;
+}
+
+/* content */
+/* ########################################################################## */
+.container {
+	max-width: 920px;
+	padding: 0px;
+}
+
+.content {
+	padding-left:  25px;
+	padding-right: 25px;
+}
+
+main {
+	background-color: #FFFFFF;
+	padding-top:    20px;
+	padding-bottom: 20px;
+	overflow: auto;
+}
+
+/* navbar */
+/* ########################################################################## */
+.navbar {
+	margin-bottom: 0px;
+	border: 0px;
+}
+
+/* breadcrumb */
+/* ########################################################################## */
+.breadcrumb-bar {
+	background-color: #222222;
+	padding-top:    10px;
+	padding-bottom: 10px;
+	text-align: left;
+}
+
+.breadcrumb {
+	background-color: #222222;
+	padding: 0px;
+	margin: 0px;
+}
+
+.breadcrumb a:link,  .breadcrumb a:visited,
+.breadcrumb a:hover, .breadcrumb a:active {
+	color: #DDDDDD;
+	text-decoration: none;
+}
+
+/* pagination */
+/* ########################################################################## */
+.pagination {
+	margin: 0px;
+}
+
+/* typography */
+/* ########################################################################## */
+h1 { font-size: 28px; }
+h2 { font-size: 24px; border-bottom: 1px solid #EEEEEE; overflow: auto; padding-bottom: 8px; }
+h3 { font-size: 20px; }
+h4 { font-size: 16px; font-weight: bold; }
+
+h1, h2, h3, h4 { 
+	margin: 20px 0px 10px 0px;
+}
+
+.content p, .content li {
+	font-size: 15px;
+	line-height: 25px;
+}
+
+blockquote {
+	margin: 1em 0em;
+}
+
+/* footnote */
+/* ########################################################################## */
+/* the markdown processor wraps the footnote text inside a <p> tag, leaving the
+ * hash jump link outside the tag, adding an extraneous new line between them */
+.footnotes p {
+	display: inline;
+	font-size: 13px;
+}
+
+.footnote::before { content: "["; }
+.footnote::after  { content: "]"; }
+
+/* images */
+/* ########################################################################## */
+.scale-image {
+	max-width: 100%;
+}
+
+.center-image {
+	max-width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (max-width: 768px) {
+	.responsive-image {
+		max-width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+	.responsive-image {
+		max-width: 250px;
+		float: right;
+		clear: both;
+		margin-left: 15px;
+	}
+}
+
+@media (min-width: 992px) {
+	.responsive-image {
+		max-width: 300px;
+		float: right;
+		clear: both;
+		margin-left: 20px;
+	}
+}
+
+.caption-large {
+	font-size: 18px;
+	text-align: center;
+}
+
+.caption p {
+	margin: 0px;
+}
+
+/* table of contents */
+/* ########################################################################## */
+.table-of-contents {
+	box-shadow: none;
+}
+
+#markdown-toc {
+	margin-bottom: 0px;
+	padding-left: 2em;
+}
+
+@media (max-width: 768px) {
+	.table-of-contents {
+		min-width: 250px;
+		max-width: 500px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+	.table-of-contents {
+		width: 250px;
+		float: right;
+		clear: both;
+		margin-left: 15px;
+	}
+}
+
+@media (min-width: 992px) {
+	.table-of-contents {
+		width: 300px;
+		float: right;
+		clear: both;
+		margin-left: 20px;
+	}
+}
+
+/* wiki */
+/* ########################################################################## */
+/* make the <a> text link fill the space of the little panel so clicking
+ * anywhere on the panel activates the panel instead of just on the title */
+.panel-title a {
+    display: block;
+    padding: 10px 15px;
+    margin: -10px -15px;
+}
+
+.panel-body ol {
+	margin: 0px;
+}
+
+.panel {
+	box-shadow: none;
+}
+
+/* definitions */
+/* ########################################################################## */
+dfn, abbr {    
+	border-bottom: 1px dotted #000;
+	text-decoration: none;
+	font-variant: none;
+	font-style: normal;
+	cursor: help;
+}
+
+/* header anchors */
+/* ########################################################################## */
+a.anchor-link {
+	opacity: 0;
+	text-decoration: none;
+}
+
+*:hover > a.anchor-link, .anchor-link:focus {
+	opacity: 1;
+	transition: all .16s linear;
+}
+
+.icon-link:before {
+	content: "#";
+}
+
+.icon-link {
+	speak: none;
+	font-size: 90%;
+	padding-left: 6px;
+}
+
+/* tag box */
+/* ########################################################################## */
+.tag_box {
+	list-style: none;
+	margin: 0;
+	padding: 5px 0;
+	overflow: hidden;
+}
+
+.tag_box li {
+	line-height: 28px;
+}
+
+.tag_box.inline li {
+	float: left;
+}
+
+.tag_box a {
+	padding: 3px 6px;
+	margin: 2px;
+	background: #eee;
+	color: #005F6B;
+	border-radius: 3px;
+	text-decoration: none;
+}
+
+.tag_box a span {
+	vertical-align: super;
+	font-size: 0.8em;
+}
+
+.tag_box a.active {
+	background: #57A957;
+	border: 1px solid #4C964D;
+	color: #FFF;
+}
+
+/* fancy selection colours */
+/* ########################################################################## */
+::selection {
+	color: #F0F0F0;
+	background: #CC0000;
+}
+
+::-moz-selection {
+	color: #F0F0F0; 
+	background: #CC0000;
+}
+
+/* instantclick */
+/* ########################################################################## */
+#instantclick-bar {
+	background: #EEE;
+}
