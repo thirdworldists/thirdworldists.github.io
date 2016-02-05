@@ -29,7 +29,7 @@ RAIM cells are somewhat independent and are responsible for making decisions for
 
 * Boston, Massachusetts
 * Syracuse, New York
-* Austin, Texas
+* Washington, D.C.
 
 #### kanada
 
@@ -37,7 +37,7 @@ RAIM cells are somewhat independent and are responsible for making decisions for
 
 #### u.k.
 
-* Manchester/Leicester, England
+* Leicester, England
 
 ### Media cells:
 
