@@ -29,7 +29,7 @@ paths:
   imperialist_economy:    /publications/imperialist-political-economy/
   founding_imperialism:   /publications/founding-imperialism/
   thousand_truths:        /publications/thousand-truths/
-  agitprop:               /agitprop/
+  documents:              /documents/
   atom:                   /atom.xml
 repo_url: 'https://github.com/thirdworldists/thirdworldists.github.io'
 
