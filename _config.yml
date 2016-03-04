@@ -4,7 +4,7 @@ include: []
 title: RAIM
 tagline: 
 
-highlighter: pygments
+highlighter: rouge
 markdown: kramdown
 
 base_path: 

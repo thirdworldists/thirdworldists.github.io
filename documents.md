@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Agitprop
-tagline: Flyers, posters, and other print materials
+title: Documents
+tagline: Documents and Flyers
 description: 
 ---
 
