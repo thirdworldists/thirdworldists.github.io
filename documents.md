@@ -25,7 +25,7 @@ description:
 
 ### Security
 
-* [Securuity document](/uploads/raim/security.pdf)
+* [Security document](/uploads/raim/security.pdf)
 
 ## Flyers
 
