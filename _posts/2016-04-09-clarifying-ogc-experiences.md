@@ -16,15 +16,17 @@ The greatest failure on the part of the OGC in this stretch was our inability to
 
 We (The RAIM-OGC) must engage in self-criticism not only for the lack of procedure which lead to the proliferation of problems between ourselves and Raven, and now the current problems they are responsible for, but as well for the lack of coherent communication of events with others, who were only afforded individual accounts of events. We feel that the rectification of such problems has been two-fold. Firstly in our need to set the record straight now, making abundantly clear the nature of their expulsion and their continued abuse of RAIM members afterward, and secondly the creation of a standard procedure for future dealings with abusive/patriarchal behavior within the organization. Our mistakes have already had negative effects on our organization and its members--not to mention those others Raven Diogenes has targeted with abuse since--and our hope with this is to prevent the further proliferation of their manipulative and abusive tendencies toward others..
 
-More information on the OGC is available at: http://www.revolutionaryaim.org/members/ogc/
+More information on the OGC is available at: [www.revolutionaryaim.org/members/ogc/](http://www.revolutionaryaim.org/members/ogc/)
 
-And, as a result of our experiences here, the procedure we developed for disciplinary inquiries is available at: http://www.revolutionaryaim.org/members/ogc-process/ 
+And, as a result of our experiences here, the procedure we developed for disciplinary inquiries is available at: [www.revolutionaryaim.org/members/ogc-process/](http://www.revolutionaryaim.org/members/ogc-process/)
 
 We hope that others may learn from this as we have, and not repeat our mistakes.
 
 Signed,
 
 The Revolutionary Anti-Imperialist Movement -- Oppressed Genders Commission (RAIM-OGC)
+
 &
+
 The Revolutionary Anti-Imperialist Movement -- Organizing Committee 
 (RAIM-OC)
