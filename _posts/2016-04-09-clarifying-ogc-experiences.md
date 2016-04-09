@@ -18,7 +18,7 @@ We (The RAIM-OGC) must engage in self-criticism not only for the lack of procedu
 
 More information on the OGC is available at: [www.revolutionaryaim.org/members/ogc/](http://www.revolutionaryaim.org/members/ogc/)
 
-And, as a result of our experiences here, the procedure we developed for disciplinary inquiries is available at: [www.revolutionaryaim.org/members/ogc-process/](http://www.revolutionaryaim.org/members/ogc-process/)
+And, as a result of our experiences here, the procedure we have developed for disciplinary inquiries and action is available at: [www.revolutionaryaim.org/members/disciplinary-process/](http://www.revolutionaryaim.org/members/disciplinary-process/)
 
 We hope that others may learn from this as we have, and not repeat our mistakes.
 
