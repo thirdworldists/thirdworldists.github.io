@@ -3,7 +3,7 @@ layout: post
 title: Clarifying OGC Experiences
 category: statements
 tags: [updates]
-description: 
+description: Lessons learned in disciplining members for patriarchal behavior, and righting a failure of communication
 ---
 
 **Clarifying OGC Experiences: The Abuse and Manipulation of Raven Diogenes**
