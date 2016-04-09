@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="342.30505"
-     inkscape:cy="113.20164"
+     inkscape:zoom="1.4"
+     inkscape:cx="367.67913"
+     inkscape:cy="164.8995"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -56,16 +56,16 @@
      transform="translate(0,-802.36216)">
     <g
        id="estrella2"
-       transform="matrix(0.0335473,0,0,0.0335473,333.14927,807.49766)"
+       transform="matrix(0.03156383,0,0,0.03156383,340.64926,814.5846)"
        style="fill:#ffffff">
       <polygon
          style="fill:#ffffff"
-         points="0,2729.5 2665.5,2459.3 3756.9,0 4848.3,2459.3 7513.8,2729.5 5522.8,4535.3 6078.8,7146 3756.9,5818.3 1435,7146 1991,4535.3 "
+         points="4848.3,2459.3 7513.8,2729.5 5522.8,4535.3 6078.8,7146 3756.9,5818.3 1435,7146 1991,4535.3 0,2729.5 2665.5,2459.3 3756.9,0 "
          id="polygon4139" />
     </g>
     <g
        id="linterna"
-       transform="matrix(0.0335473,0,0,0.0335473,333.14927,807.49766)"
+       transform="matrix(0.03156383,0,0,0.03156383,340.64926,814.5846)"
        style="fill:#222222">
       <g
          id="g4142"
@@ -84,7 +84,7 @@
     </g>
     <g
        id="fuego"
-       transform="matrix(0.0335473,0,0,0.0335473,333.14927,807.49766)"
+       transform="matrix(0.03156383,0,0,0.03156383,340.64926,814.5846)"
        style="fill:#222222">
       <path
          style="fill:#222222"
@@ -126,16 +126,17 @@
     </g>
     <path
        id="path4166"
-       d="M 488.00026,914.5538"
+       d="M 486.34474,915.31108"
        inkscape:connector-curvature="0"
        style="fill:none" />
     <path
        id="path4168"
-       d="M 355.78698,942.88114"
+       d="M 361.94852,941.96358"
        inkscape:connector-curvature="0"
        style="fill:none" />
     <g
-       id="g4171">
+       id="g4171"
+       transform="matrix(0.94087539,0,0,0.94087539,27.197317,54.829926)">
       <g
          style="fill:#222222"
          transform="matrix(0.0335473,0,0,0.0335473,333.14927,807.49766)"
@@ -179,7 +180,7 @@
     </g>
     <g
        id="g4202"
-       transform="matrix(0.0335473,0,0,0.0335473,333.14927,807.49766)"
+       transform="matrix(0.03156383,0,0,0.03156383,340.64926,814.5846)"
        style="fill:#222222">
       <path
          id="path4204"
@@ -190,7 +191,7 @@
     <g
        id="g4354"
        style="fill:#ffffff"
-       transform="matrix(0.75669759,0,0,0.75669759,120.39013,263.96605)">
+       transform="matrix(0.71195814,0,0,0.71195814,140.46942,303.18908)">
       <g
          transform="matrix(0.04433383,0,0,0.04433383,281.16799,718.29436)"
          id="g4186"
