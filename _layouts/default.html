@@ -63,6 +63,10 @@
 							<a href="{{ site.paths.contact }}">Contact</a>
 						</li>
 						
+						<li {% if page.url == site.paths.updates %} class="active" {% endif %}>
+							<a href="{{ site.paths.updates }}">Updates</a>
+						</li>
+						
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Members <span class="caret"></span></a>
 							<ul class="dropdown-menu" role="menu">
@@ -72,16 +76,12 @@
 							</ul>
 						</li>
 						
-						<li {% if page.url == site.paths.updates %} class="active" {% endif %}>
-							<a href="{{ site.paths.updates }}">Updates</a>
-						</li>
-						
-						<li {% if page.url == site.paths.publications %} class="active" {% endif %}>
-							<a href="{{ site.paths.publications }}">Publications</a>
-						</li>
-						
-						<li {% if page.url == site.paths.agitprop %} class="active" {% endif %}>
-							<a href="{{ site.paths.documents }}">Documents</a>
+						<li class="dropdown">
+							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Texts <span class="caret"></span></a>
+							<ul class="dropdown-menu" role="menu">
+								<li><a href="{{ site.paths.publications }}">Publications</a></li>
+								<li><a href="{{ site.paths.documents }}">Documents</a></li>
+							</ul>
 						</li>
 						
 						<li class="dropdown">
