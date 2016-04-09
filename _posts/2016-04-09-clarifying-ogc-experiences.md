@@ -22,4 +22,6 @@ And, as a result of our experiences here, the procedure we developed for discipl
 
 We hope that others may learn from this as we have, and not repeat our mistakes.
 
-Signed, **RAIM Oppressed Genders Commission (RAIM-OGC)** & **RAIM Organizing Committee (RAIM-OC)**
+Signed,
+
+-- **RAIM Oppressed Genders Commission (RAIM-OGC)** & **RAIM Organizing Committee (RAIM-OC)**
