@@ -22,11 +22,4 @@ And, as a result of our experiences here, the procedure we developed for discipl
 
 We hope that others may learn from this as we have, and not repeat our mistakes.
 
-Signed,
-
-The Revolutionary Anti-Imperialist Movement -- Oppressed Genders Commission (RAIM-OGC)
-
-&
-
-The Revolutionary Anti-Imperialist Movement -- Organizing Committee 
-(RAIM-OC)
+Signed, **RAIM Oppressed Genders Commission (RAIM-OGC)** & **RAIM Organizing Committee (RAIM-OC)**
