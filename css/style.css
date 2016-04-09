@@ -24,6 +24,10 @@ header > h1 {
 	text-align: center;
 }
 
+header >img {
+	background-color: #222222;
+}
+
 /* content */
 /* ########################################################################## */
 .container {
