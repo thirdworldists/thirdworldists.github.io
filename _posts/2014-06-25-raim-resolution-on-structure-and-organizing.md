@@ -10,22 +10,7 @@ A critical assessment of the state of RAIM, along with an assessment of conditio
 
 ### What is RAIM?
 
-RAIM is an international collective of revolutionary communist organizers, activists, artists, and technical workers based mainly in the imperialist countries. Our aim is to build public opinion internationally in support of Third Worldism and People's War, and to build and defend oppositional political cultures and independent institutions of the oppressed within "the belly of the beast" as part of world revolution. We want the complete dismantling of imperialism and the victory of the proletariat in revolution. Ultimately, we want communism -- the end of all oppression and exploitation.
-
-Where we differ from many other communist organizations is in our analysis of
-global class relations. We understand that a majority of people in the core
-imperialist countries are embourgeoisfied, receiving surplus value extracted
-from workers around the world, and having a mode of life that alienates them
-from the proletariat. We understand that this means most people in imperialist
-countries have a strong community of interests with imperialism. We thus hold
-that any communist organizing in the imperialist core must be based on a
-concrete assessment of "Who are our enemies? Who are our friends?" and how
-class dynamics have been shaped by imperialist parasitism. Additionally, we
-support national liberation of oppressed nations in tandem with a global
-dictatorship of the proletariat of oppressed nations as a means of dismantling
-imperialism. We also support the complete liquidation of settler states like
-the United States and Canada through the national liberation of internal
-colonies.
+{% include what_is_raim %}
 
 ### On cell structure
 
