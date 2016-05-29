@@ -41,7 +41,7 @@ Email us using the above info, using the following as a template:
 
 All RAIM members are expected to:
 
-1. agree with our [points of unity](/about/#points-of-unity),
+1. agree with our [points of unity](/about/#points-of-unity) and [cardinal principles](/members/cardinal-principles/),
 2. abide by the [RAIM code of conduct](/members/code-of-conduct/), and
 3. be active in advancing the cause of revolution
 
