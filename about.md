@@ -11,7 +11,7 @@ description:
 
 ## Points of Unity
 
-RAIM upholds the following points of unity:
+RAIM unites sororally with all organizations and individuals who uphold these points:
 
 {% include points_of_unity %}
 
