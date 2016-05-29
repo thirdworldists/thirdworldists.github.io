@@ -15,7 +15,7 @@ RAIM upholds the following points of unity:
 
 {% include points_of_unity %}
 
-For further information, consult our list of [RAIM publications](/publications/) or our media cells, listed below. 
+For further information, consult our [cardinal principles](/members/cardinal-principles/), our list of [RAIM publications](/publications/), or our media cells (listed below).
 
 ## What do we do?
 
