@@ -5,8 +5,6 @@ tagline:
 description: RAIM Cardinal Principles
 ---
 
-Cardinal Principles:
-
 ## Communism
 
 Our principle goal is to contribute to the complete abolition of class society via building toward socialist revolution; in its place we mean to establish the dictatorship of the proletariat and the construction of a Communist--that is, classless--society.
