@@ -23,23 +23,7 @@ Practically, [RAIM exists as a collection of cells](/statements/2014/06/25/raim-
 
 RAIM cells are somewhat independent and are responsible for making decisions for themselves without needing to wait for orders from a central command. All RAIM cells are, however, united around RAIM’s points of unity and Third Worldist line.
 
-### On-the-ground cells:
-
-#### u.s.
-
-* Boston, Massachusetts
-* Syracuse, New York
-* Washington, D.C.
-
-#### kanada
-
-* Ottawa, Ontario
-
-#### u.k.
-
-* Leicester, England
-
-### Media cells:
+### Media Projects:
 
 * [Anti-Imperialism.com](http://anti-imperialism.com/)
 * [Revolutionary Ecology](http://revolutionaryecology.com/)
