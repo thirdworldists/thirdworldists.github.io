@@ -7,6 +7,10 @@ description:
 
 ## RAIM Documents
 
+### Cardinal Principles
+
+* [Grundsätzliche Prinzipien (A4)](/uploads/raim/RAIM-Grundsätzliche-Prinzipien-A4.pdf)
+
 ### Points of Unity
 
 * [Points of Unity (A5)](/uploads/raim/points-of-unity-a5.pdf)
