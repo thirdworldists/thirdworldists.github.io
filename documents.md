@@ -19,7 +19,7 @@ description:
 
 ### Code of Conduct
 
-* [Code of Conduct (A4)](/uploads/raim/code-of-conduct-a4.pdf)
+* [Code of Conduct (A4)](/uploads/raim/RAIM-CoC-A4.pdf)
 * [Code of Conduct (US Letter)](/uploads/raim/code-of-conduct-letter.pdf)
 
 ### Security
