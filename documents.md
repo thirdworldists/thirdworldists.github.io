@@ -29,7 +29,7 @@ description:
 
 ### Security
 
-* [Security document](/uploads/raim/security.pdf)
+* [Security document](/uploads/raim/RAIM-Security-Document-US-Letter.pdf)
 
 ## Flyers
 
