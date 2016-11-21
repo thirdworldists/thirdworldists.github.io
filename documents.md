@@ -14,7 +14,7 @@ description:
 ### Points of Unity
 
 * [Points of Unity (A5)](/uploads/raim/points-of-unity-a5.pdf)
-* [Points of Unity (A4)](/uploads/raim/points-of-unity-a4.pdf)
+* [Points of Unity (A4)](/uploads/raim/RAIM-PoU-A4.pdf)
 * [Points of Unity (US Letter)](/uploads/raim/points-of-unity-letter.pdf)
 
 ### Code of Conduct
