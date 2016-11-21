@@ -11,6 +11,7 @@ description:
 
 * [Grundsätzliche Prinzipien (A4)](/uploads/raim/RAIM-Grundsätzliche-Prinzipien-A4.pdf)
 * [Cardinal Principles (A4)](/uploads/raim/RAIM-CP-A4.pdf)
+* [Cardinal Principles (US Letter)](/uploads/raim/RAIM-CP-US-Letter.pdf)
 
 ### Points of Unity
 
