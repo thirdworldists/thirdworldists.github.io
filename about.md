@@ -25,7 +25,7 @@ RAIM cells are somewhat independent and are responsible for making decisions for
 
 ### Media Projects:
 
-* [Anti-Imperialism.com](http://anti-imperialism.com/)
+* [Anti-Imperialism.org](http://anti-imperialism.org/)
 * [Revolutionary Ecology](http://revolutionaryecology.com/)
 * [Siglo De Lucha](http://siglodelucha.wordpress.com/)
 * [Dare to Win](/publications/dare-to-win/)
