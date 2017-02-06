@@ -31,7 +31,6 @@ description:
 ### General
 
 * [Program for the Eradication of Patriarchy Under Socialism](/uploads/flyers/anti-patriarchy-program.pdf)
-* [Capitalism is Destroying the Earth! (revaim)](/uploads/flyers/destroying-earth-revaim.pdf)
 * [Capitalism is Destroying the Earth! (reveco)](/uploads/flyers/destroying-earth-reveco.pdf)
 
 ### u.k.
@@ -40,10 +39,5 @@ description:
 
 ### north amerika
 
-* [Martin Luther King Jr Day](/uploads/flyers/mlkjr-day.pdf)
 * [Onkwehón:we Rising](/uploads/flyers/onkwehonwe-rising.pdf)
 * [Support the United Front against US Imperialism!](/uploads/flyers/united-front-us-imperialism.pdf)
-
-### austria
-
-* [Anti-Identitäre Aktion](/uploads/flyers/Anti-Identitarian.pdf)
