@@ -31,9 +31,7 @@ minded groups and individuals with worked-out line differences.
 
 RAIM cells are somewhat independent and are responsible for making decisions
 for themselves without needing to wait for orders from a central command. All
-RAIM cells are, however, united around RAIM’s cardinal principles:
-
-{% include points_of_unity %}
+RAIM cells are, however, united around RAIM’s [cardinal principles](/members/cardinal-principles/).
 
 Additionally, a central RAIM cell exists which manages the RAIM website and
 RAIM's theoretical journal, _Seize the Time_. These resources serve both to
