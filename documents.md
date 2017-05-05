@@ -32,6 +32,7 @@ description:
 
 * [Program for the Eradication of Patriarchy Under Socialism](/uploads/flyers/anti-patriarchy-program.pdf)
 * [Capitalism is Destroying the Earth! (reveco)](/uploads/flyers/destroying-earth-reveco.pdf)
+* [Stand up for North Korea!](/uploads/flyers/stand-up-for-dprk.pdf)
 
 ### u.k.
 
