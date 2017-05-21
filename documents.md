@@ -45,7 +45,7 @@ description:
 
 ## Posters
 
-### anti-imperialism
+### Anti-Imperialism
 
-* [Kill the Parasite State](/uploads/flyers/MTW1.pdf)
-* [Smash the First World](/Uploads/flyers/MTW.pdf)
+* [Kill the Parasite State (Small)](/uploads/flyers/MTW1.pdf)
+* [Smash the First World (Small)](/Uploads/flyers/MTW.pdf)
