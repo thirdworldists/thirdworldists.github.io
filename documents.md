@@ -42,3 +42,8 @@ description:
 
 * [Onkwehón:we Rising](/uploads/flyers/onkwehonwe-rising.pdf)
 * [Support the United Front against US Imperialism!](/uploads/flyers/united-front-us-imperialism.pdf)
+
+## Posters
+
+* [Kill the Parasite State](/uploads/flyers/MTW1.pdf)
+* [Smash the First World] (/Uploads/flyers/MTW.pdf)
