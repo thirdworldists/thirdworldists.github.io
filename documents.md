@@ -49,5 +49,5 @@ description:
 
 * [Kill the Parasite State (Small)](/uploads/flyers/MTW1.pdf)
 * [Smash the First World (Small)](/Uploads/flyers/MTW.pdf)
-* [Kill the Parasite State (Large)](/uploads/flyers/MTW2.pdf)
-* [Smash the First World (Large)](/Uploads/flyers/MTW3.pdf)
+* [Kill the Parasite State (Large)](/uploads/flyers/MTW2.pdf) 
+* [Smash the First World (Large)](/Uploads/flyers/MTW3.pdf) 
