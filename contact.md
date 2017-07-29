@@ -25,18 +25,23 @@ The easiest way to use GPG is with the [Enigmail](https://www.enigmail.net/home/
 
 ## Joining
 
-There are a million reasons to oppose capitalism-imperialism but only one solution: revolution. But revolutions do not just happen spontaneously. They require the dedicated efforts of an advanced element representing the proletariat. RAIM exists to push forward the subjective forces of socialism and communism. Yet what we are doing so far is only the beginning. And we need your help.
+There are a million reasons to oppose capitalism-imperialism but only one solution: revolution. But revolutions do not just happen spontaneously. They require the dedicated efforts of an advanced element representing the proletariat. RAIM exists to push forward the subjective forces for socialism and communism. Yet what we are doing so far is only the beginning. And we need your help.
 
-Email us using the above info, using the following as a template:
+Email us using the above info, and include a psuedonym/Name you wish us to call you, general location (country and region/nearest city), and what interests you about RAIM.
+
+Additionally, let us know how you would like to contribute. We have many ongoing political projects and campaigns for you to get involved with, so consider what skills you have and how you could contribute to RAIM.
 
 <ul>
-	<li>Pseudonym/First name:</li>
-	<li>General age:</li>
-	<li>General location (e.g. country and nearest city):</li>
-	<li>Background/experience:</li>
-	<li>Any technical skills/capabilities:</li>
-	<li>Why RAIM interests you:</li>
+	<li>Contributing to either of our official media organs: [Anti-Imperialism.org](www.anti-imperialism.org) or [Revolutionary Ecology](www.revolutionaryecology.com):</li>
+	<li>Making Pamphlets and formatting Flyers:</li>
+	<li>Video Editing for the [RAIM Agit-Prop Committee Youtube Channel](https://www.youtube.com/channel/UCLoY1-BKqQyxRP2vT1cxCdQ):</li>
+	<li>Organizing and Taking Part in Study Groups on Anti-Imperialist/Third-Worldist material</li>
+	<li>Organizing local Anti-Imperialist film viewings for interested groups:</li>
+	<li>Disseminating anti-imperialist literature and information:</li>
 	<li>Any comments or questions:</li>
+	<li>collect and suggest material for republication and study groups/guides:</li>
+	<li>submitting art/agit-prop for publication on websites/flyers:</li>
+	<li>[Supporting MIM(Prisons) Prisoner Support network](https://www.prisoncensorship.info/fight):</li>
 </ul>
 
 All RAIM members are expected to:
