@@ -27,7 +27,7 @@ The easiest way to use GPG is with the [Enigmail](https://www.enigmail.net/home/
 
 There are a million reasons to oppose capitalism-imperialism but only one solution: revolution. But revolutions do not just happen spontaneously. They require the dedicated efforts of an advanced element representing the proletariat. RAIM exists to push forward the subjective forces for socialism and communism. Yet what we are doing so far is only the beginning. And we need your help.
 
-Email us using the above info, and include a psuedonym/Name you wish us to call you, general location (country and region/nearest city), and what interests you about RAIM. Additionally, let us know how you would like to contribute. We have many ongoing political projects and campaigns for you to get involved with, so consider what skills you have and how you could contribute to RAIM. Here are a few ways you can contribute:
+Email us using the above info and include a psuedonym/Name you wish us to call you, general location (country and region/nearest city), and what interests you about RAIM. Additionally, let us know how you would like to contribute. We have many ongoing political projects and campaigns for you to get involved with, so consider what skills you have and how you could contribute to RAIM. Here are a few ways you can contribute:
 
 * Contributing to either of our official media organs: [Anti-Imperialism.org](www.anti-imperialism.org) or [Revolutionary Ecology](www.revolutionaryecology.com)
 * Making Pamphlets and formatting Flyers
