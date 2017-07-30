@@ -29,7 +29,7 @@ There are a million reasons to oppose capitalism-imperialism but only one soluti
 
 Email us using the above info and include a psuedonym/Name you wish us to call you, general location (country and region/nearest city), and what interests you about RAIM. Additionally, let us know how you would like to contribute. We have many ongoing political projects and campaigns for you to get involved with, so consider what skills you have and how you could contribute to RAIM. Here are a few ways you can contribute:
 
-* Contributing to either of our official media organs: [Anti-Imperialism.org](www.anti-imperialism.org) or [Revolutionary Ecology](www.revolutionaryecology.com)
+* Contributing to either of our official media organs: [Anti-Imperialism.org](https://anti-imperialism.org/) or [Revolutionary Ecology](https://revolutionaryecology.com/)
 * Making Pamphlets and formatting Flyers
 * Video Editing for the [RAIM Agit-Prop Committee Youtube Channel](https://www.youtube.com/channel/UCLoY1-BKqQyxRP2vT1cxCdQ)
 * Organizing and taking part in study groups on Anti-Imperialist/Third-Worldist material
