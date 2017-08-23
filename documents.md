@@ -19,6 +19,7 @@ description:
 
 ### Code of Conduct
 
+* [Verhaltenskodex (A4)](/uploads/raim/RAIM%20-%20Verhaltenskodex%20(A4)%20.pdf) 
 * [Code of Conduct (A4)](/uploads/raim/RAIM-CoC-A4.pdf)
 * [Code of Conduct (US Letter)](/uploads/raim/RAIM-CP-US-Letter.pdf)
 
