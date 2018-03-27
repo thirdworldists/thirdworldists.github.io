@@ -22,7 +22,7 @@ Mass Organizations must be able to take the unsystematic ideas of those involved
 
 Power is ultimately the final goal of the mass organizations, they will not, for most of their primary existence, be able to really project power throughout the community it serves. Though its experience should be preparing it for the moment it is able to, by not only educating future cadre but also imbuing them with the discipline to make their ideas systematic and actionable, we obtain the building blocks of what can become an organization of power, democratic yet linked to the ideological vanguard that it exists in unity with. This power will be represented in the expanding responsibilities of the mass organization. For instance, once tasked with distributing food and clothing, a mass organization oriented toward “serving the people” can adopt quasi-paramilitary roles, training the people for collective community defense against racist and fascist violence. Once tasked primarily with the regimented goals of providing food and clothing for the community, now they must use the discipline and regimentation of the organization to conduct classes, to expand into other areas of service, and to explore new avenues of cooperation and development of the communities they serve. This is what separates the mass organization from the NGO, while the NGO seeks to serve only, we seek to lead. While they open up institutions which provide for the deficiencies of the capitalist system, we, like water in the cracks, seek to harden and displace capitalism. It’s through the function of the mass organization that we can ascertain its other qualities and necessities.
 
-#Structure of Mass Organizations
+# Structure of Mass Organizations
 
 ## Independence
 
