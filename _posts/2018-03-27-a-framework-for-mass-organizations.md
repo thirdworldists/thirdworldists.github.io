@@ -40,23 +40,23 @@ The membership of the mass organizations is not necessarily the same as that of 
 
 To begin with, we must identify three stages of membership within the mass organizations. Much like the “Serve the People” formations, we recognize the spheres of *volunteers*, *members* and *cadre*. The volunteers must not necessarily agree to our political line, but must accept the leadership of the organization while working with it. They are a transient category, which we encourage to become members and attend other educational functions. Members agree to the fundamental positions of the mass organization and take it upon themselves not only to lend a hand, but to engage deeply in the activity of the organization, including its educational and political work. These are the individuals which will be constructed into cadre, which are full members of RAIM and whose ideas are in line with those expressed by the cardinal principles of RAIM. The foundations of membership within the our mass organizations will be identical to RAIM’s points of unity and are as follows:
 
-#### 1) Revolutionary Socialism
+#### Revolutionary Socialism
 
 It is the objective of any revolutionary socialist organization to make revolution. Our goal is not simply to alleviate the worst effects of capitalist accumulation or to beg that the authorities adopt a more humane face in the oppression of the masses. To unite with us is accepting that revolution against capitalism is our ultimate goal.
 
-#### 2) Internationalism
+#### Internationalism
 
 We reject any and all attempts to cultivate obscurantist romantic, patriotic, equivocal, or opportunist sympathies for one's country or imperial aggressors/oppressors. The opposite of jingoism and oppressor-nation nationalism is internationalism, to reserve our solidarity, cooperation and support for the oppressed and their mass movements worldwide. We do not resign ourselves or our work to purely local problems, but seek to constantly connect them to higher and more fundamental struggles to unite all oppressed peoples.
 
-#### 3) Anti-Imperialism
+#### Anti-Imperialism
 
 The principal enemies of our movements are those imperialist blocs to which our countries belong or are subjected to. In the 21st century, all western peoples’ first and foremost enemy should be u.$. and european domination in the form of NATO and other imperialist organizations. This necessitates a program of principled revolutionary defeatism with regards to inter-imperialist rivalries involving our imperialist blocs and countries in particular, and a maintained opposition to their political, economic, and cultural world-hegemony; all of our time, energy and resources must be put towards the defeat of western imperialism. This includes not only the retreat of western imperialism in its conquests abroad, but the national liberation of those who have been conquered, annexed or occupied by the oppressor nations.
 
-#### 4) Revolutionary Feminism
+#### Revolutionary Feminism
 
 We will not compromise our support for the gender/sexually oppressed people who suffer under the weight of patriarchal society. We cannot find unity with those who assist in or even deny the oppression of women and queer people, and who reject the existence of transgender people and their struggle. No common cause can be found with patriarchal oppressors.
 
-#### 5) Anti-Opportunism
+#### Anti-Opportunism
 
 We cannot unite with those who stand alongside the oppressors and the exploiters in the ranks of the military or the security forces (i.e. the pigs). Our struggle is against, not with, those who enforce the rule of the colonial and imperial states on the oppressed people of the world, and we make no exceptions. Unity with us means opposition to the oppressors and exploiters, nothing less.
 
