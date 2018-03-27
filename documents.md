@@ -27,6 +27,10 @@ description:
 
 * [Security document](/uploads/raim/RAIM-Security-Document-US-Letter.pdf)
 
+### Statements
+
+* [A Framework for Mass Organizations](/uploads/raim/framework-for-mass-organizations.pdf)
+
 ## Flyers
 
 ### General
