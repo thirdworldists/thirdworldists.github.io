@@ -50,7 +50,7 @@ description:
 
 ### austria & germany
 
-* [Wo findet sich der revolutionäre Geist heute?](/uploads/flyers/wofindetsichderrevgeist_nodate.pdf.pdf)
+* [Wo findet sich der revolutionäre Geist heute?](/uploads/flyers/wofindetsichderrevgeist_nodate.pdf)
 
 ## Posters
 
