@@ -31,6 +31,12 @@ description:
 
 * [A Framework for Mass Organizations](/uploads/raim/framework-for-mass-organizations.pdf)
 
+## Non-RAIM Documents
+
+### German
+
+* [Zur nationalen Frage in Österreich - Alfred Klahr](/uploads/docs/Klahr Alfred.pdf)
+
 ## Flyers
 
 ### General
@@ -58,3 +64,4 @@ description:
 
 * [Kill the Parasite State (Small)](/uploads/flyers/MTW1.pdf)
 * [Kill the Parasite State (Large)](/uploads/flyers/MTW2.pdf)
+
