@@ -22,15 +22,6 @@ description:
 ## Books
 
 <div class="row">
-	<div class="col-sm-3 col-xs-6">
-		<a href="{{ site.paths.weapon_of_theory }}" class="thumbnail">
-			<img src="/images/books/twot.jpg">
-			<div class="caption">
-				<h3>The Weapon of Theory</h3>
-				<p>An introduction to Maoist (Third Worldist) theory and practice. Suitable for advanced readers.</p>
-			</div>
-		</a>
-	</div>
 	
 	<div class="col-sm-3 col-xs-6">
 		<a href="{{ site.paths.imperialist_economy }}" class="thumbnail">
