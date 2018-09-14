@@ -7,7 +7,7 @@ description: RAIM Cardinal Principles
 
 ## Communism
 
-Our principle goal is to contribute to the complete abolition of class society via building toward socialist revolution; in its place we mean to establish the dictatorship of the proletariat and the construction of a Communist--that is, classless--society. Additionally, we reject postmodern, liberal-utopian and technocratic "alternatives" to scientific socialism, and uphold the legacy and validity of Marxism, Leninism and Maoism.
+Our principle goal is to contribute to the complete abolition of class society via building toward socialist revolution; in its place we mean to establish the dictatorship of the proletariat and the construction of a Communist--that is, classless--society. Additionally, we reject postmodern, liberal-utopian and technocratic "alternatives" to scientific socialism, and uphold the validity of Marxism, Leninism and Maoism.
 
 ## Parasitism Theory
 
