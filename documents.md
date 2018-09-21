@@ -37,6 +37,10 @@ description:
 
 * [Zur nationalen Frage in Österreich - Alfred Klahr](/uploads/docs/Klahr Alfred.pdf)
 
+### English
+
+* [China: A Modern Social-Imperialist Power (CPI-M Booklet)](/uploads/booklets/China - A Modern Social-Imperialist Power.pdf)
+
 ## Flyers
 
 ### General
