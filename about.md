@@ -19,7 +19,7 @@ RAIM unites sororally with all organizations and individuals who uphold these po
 
 ## What do we do?
 
-Practically, [RAIM exists as a collection of cells](/statements/2014/06/25/raim-resolution-on-structure-and-organizing/). These cells can be divided into two categories: on-the-ground cells and media-based cells. On-the-ground cells are involved in building public opinion in support of Third Worldism through practical work and agitation, working toward building independent institutions of the oppressed which challenge the material and cultural hegemony of the bourgeoisie, and building coalitions with other like-minded groups and individuals with worked-out line differences. Media cells are, as the name implies, primarily involved in media projects.
+Practically, RAIM exists as a collection of cells. These cells can be divided into two categories: on-the-ground cells and media-based cells. On-the-ground cells are involved in building public opinion in support of Third Worldism through practical work and agitation, working toward building independent institutions of the oppressed which challenge the material and cultural hegemony of the bourgeoisie, and building coalitions with other like-minded groups and individuals with worked-out line differences. Media cells are, as the name implies, primarily involved in media projects.
 
 RAIM cells are somewhat independent and are responsible for making decisions for themselves without needing to wait for orders from a central command. All RAIM cells are, however, united around RAIM’s points of unity and Third Worldist line.
 
