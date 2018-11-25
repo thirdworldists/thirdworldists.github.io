@@ -9,19 +9,13 @@ description:
 
 {% include what_is_raim %}
 
-## Points of Unity
+## What unites us?
 
-RAIM unites sororally with all organizations and individuals who uphold these points:
-
-{% include points_of_unity %}
-
-**For further information, consult our [cardinal principles](/members/cardinal-principles/), our list of [RAIM publications](/publications/), or our media cells (listed below).**
+RAIM is united ideologically through a common devotion to Maoism (Third-Worldism) the foundations of which is found in our [cardinal principles](/members/cardinal-principles/) and general political line, and practically through [discipline](/members/code-of-conduct/) and common political work. Membership cannot be reduced to agreement with our political positions or collaboration with RAIM cells, but entails the acceptance of organizational discipline, diligent political work and a commitment to making revolution.
 
 ## What do we do?
 
-Practically, RAIM exists as a collection of cells. These cells can be divided into two categories: on-the-ground cells and media-based cells. On-the-ground cells are involved in building public opinion in support of Third Worldism through practical work and agitation, working toward building independent institutions of the oppressed which challenge the material and cultural hegemony of the bourgeoisie, and building coalitions with other like-minded groups and individuals with worked-out line differences. Media cells are, as the name implies, primarily involved in media projects.
-
-RAIM cells are somewhat independent and are responsible for making decisions for themselves without needing to wait for orders from a central command. All RAIM cells are, however, united around RAIM’s points of unity and Third Worldist line.
+RAIM is not an activist organization, but a revolutionary one. Rather than simply responding piecemeal to the conditions that surround us, we seek to overturn the entire capitalist system through communist revolution. To achieve these ends, RAIM cells agitate for revolution, run study groups, organize independent initiatives and build mass organizations. 
 
 ### Media Projects:
 
@@ -34,7 +28,7 @@ RAIM cells are somewhat independent and are responsible for making decisions for
 
 There are a million reasons to oppose capitalism-imperialism but only one solution: revolution. But revolutions do not just happen spontaneously. They require the dedicated efforts of an advanced element representing the proletariat. RAIM exists to push forward the subjective forces of socialism and communism. Yet what we are doing so far is only the beginning. And we need your help.
 
-Through our various on-the-ground and media cells, RAIM provides a number of ways for people to get involved. We strongly encourage those who find agreement with our points of unity and are looking to do something to [contact us](/contact/).
+We strongly encourage those who find agreement with our Cardinal Principles and are looking to do something to [contact us](/contact/).
 
 <div class="text-center">
 	<a href="{{ site.paths.contact }}" class="btn btn-primary btn-success"><span class="glyphicon glyphicon-envelope"></span> Contact us!</a>
