@@ -5,8 +5,6 @@ tagline: Maoist (Third Worldist) FAQ
 description: 
 ---
 
-<div class="alert alert-info" role="alert"><strong>Note:</strong> {% include maoism_notice %}</div>
-
 {% assign image = "/images/booklets/tt.png" %}
 {% include image_responsive %}
 
