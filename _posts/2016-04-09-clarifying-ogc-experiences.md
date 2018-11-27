@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: 
 title: Clarifying OGC Experiences
-category: statements
+category: 
 tags: [updates]
 description: Lessons learned in disciplining members for patriarchal behavior, and righting a failure of communication
 ---
@@ -16,9 +16,9 @@ The greatest failure on the part of the OGC in this stretch was our inability to
 
 The RAIM-OGC must engage in self-criticism not only for the lack of procedure which lead to the proliferation of problems between ourselves and Raven, and now the current problems they are responsible for, but as well for the lack of coherent communication of events with others, who were only afforded individual accounts of events. We feel that the rectification of such problems has been two-fold. Firstly, in our need to set the record straight now, making abundantly clear the nature of their expulsion and their continued abuse of RAIM members afterward, and secondly in the creation of a standard procedure for future dealings with abusive/patriarchal behavior within the organization. Our mistakes have already had negative effects on our organization and its members--not to mention those others Raven Diogenes has targeted with abuse since--and our hope with this is to prevent the further proliferation of their manipulative and abusive tendencies toward others.
 
-More information on the OGC is available at: [www.revolutionaryaim.org/members/ogc/](http://www.revolutionaryaim.org/members/ogc/)
+More information on the OGC is available at: [www.revaim.org/members/ogc/](http://www.revolutionaryaim.org/members/ogc/)
 
-And, as a result of our experiences here, the procedure we have developed for disciplinary inquiries and action is available at: [www.revolutionaryaim.org/members/disciplinary-process/](http://www.revolutionaryaim.org/members/disciplinary-process/)
+And, as a result of our experiences here, the procedure we have developed for disciplinary inquiries and action is available at: [www.revaim.org/members/disciplinary-process/](http://www.revolutionaryaim.org/members/disciplinary-process/)
 
 We hope that others may learn from this as we have, and not repeat our mistakes.
 
