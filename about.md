@@ -11,11 +11,11 @@ description:
 
 ## What unites us?
 
-RAIM is united ideologically through Maoism (Third-Worldism), the foundations of which is found in our [cardinal principles](/members/cardinal-principles/) and general political line, and practically through [discipline](/members/code-of-conduct/) and common political work. Membership cannot be reduced to agreement with our political positions or collaboration with RAIM cells, but entails the acceptance of organizational discipline, diligent political work and a commitment to making revolution.
+RAIM is united ideologically through Maoism (Third-Worldism), the foundations of which is found in our [cardinal principles](/members/cardinal-principles/) and general political line, and practically through [discipline](/members/code-of-conduct/) and common political work. Membership cannot be reduced to agreement with our political positions or collaboration with RAIM cells, but requires the acceptance of organizational discipline, diligent political work and a commitment to making revolution.
 
 ## What do we do?
 
-RAIM is not an activist organization, but a revolutionary one. Rather than simply responding piecemeal to the conditions that surround us, we seek to overturn the entire capitalist system through communist revolution. To achieve these ends, RAIM cells agitate for revolution, run study groups, organize independent initiatives and build mass organizations. 
+RAIM is not an activist organization, but a revolutionary one. Rather than simply responding piecemeal to the conditions that surround us, we seek to overturn the entire capitalist system through communist revolution. To achieve these ends, RAIM cells agitate for revolution, run study groups, organize independent initiatives and build mass organizations.
 
 ### Media Projects:
 
