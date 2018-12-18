@@ -2,8 +2,8 @@
 layout: post
 title: On the Supposed Dissolution of Red Guards Austin
 category: statements
-tags: [statements]
-description: A response to opportunist declarations
+tags: [statement]
+description: A response to opportunist declarations.
 ---
 
 We have remained silent on the issue of the ostensible demise of Red Guards Austin (RGA) with their very mysterious single-sentence post both on facebook and their blog, but have been motivated by the abundance of responses elsewhere to say something of it. First of all we find it necessary to criticize, in the harshest terms, the opportunist and even anti-communist remarks by individuals and groups that seem to uphold the possibility of their demise as some kind of triumph. Let us be clear here: there is no triumph in the demise of imperialism’s enemies. RAIM has not kept secret our disagreements with Red Guards groups, but we have made a continual point not to air the dirty laundry of other organizations for cheap opportunistic gains.
