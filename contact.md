@@ -42,8 +42,8 @@ Email us using the above info and include a psuedonym/name you wish us to call y
 
 All RAIM members are expected to:
 
-1. unite with our [cardinal principles](/members/cardinal-principles/),
-2. abide by the [RAIM code of conduct](/members/code-of-conduct/), and
+1. unite with our [Cardinal Principles](/members/cardinal-principles/),
+2. abide by the [RAIM Code of Conduct](/members/code-of-conduct/), and
 3. be active in advancing the cause of revolution
 
 ## GPG Key
