@@ -39,7 +39,7 @@ description:
 
 ### English
 
-* [China: A Modern Social-Imperialist Power (CPI-M Booklet)](/uploads/booklets/China Social-Imperialism.pdf)
+* [China: A Modern Social-Imperialist Power (CPI-M Booklet)](/uploads/booklets/China - A Modern Social-Imperialist Power.pdf)
 
 ## Flyers
 
