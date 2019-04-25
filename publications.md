@@ -5,20 +5,6 @@ tagline: Books, booklets, and magazines
 description: 
 ---
 
-## Magazines
-
-<div class="row">
-	<div class="col-xs-6">
-		<a href="{{ site.paths.dare_to_win }}" class="thumbnail">
-			<img src="/images/magazines/dtw1.png">
-			<div class="caption">
-				<h3>Dare to Win</h3>
-				<p>Dare to Win is the news and commentary magazine of the Revolutionary Anti-Imperialist Movement. We encourage cadre and comrades to distribute Dare to Win on the street and at protests and other political events.</p>
-			</div>
-		</a>
-	</div>
-</div>
-
 ## Books
 
 <div class="row">
